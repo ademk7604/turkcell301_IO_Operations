@@ -14,7 +14,6 @@ public class Driver {
 
 		// yaz();
 		oku();
-
 	}
 
 	public static void oku() {
