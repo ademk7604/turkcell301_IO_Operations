@@ -17,6 +17,7 @@ public class Driver {
 				fileInputStream = new FileInputStream(inputFile);
 				fileOutputStream = new FileOutputStream(OutputFile);
 				int c = 0;
+				
 				while((c = fileInputStream.read()) != -1) {
 					char ch = (char)c;
 					fileOutputStream.write(Character.toUpperCase(ch));
