@@ -1,4 +1,4 @@
-package RemoteFileLap;
+package d8_RemoteFileLap;
 
 import java.io.FileOutputStream;
 import java.io.InputStream;

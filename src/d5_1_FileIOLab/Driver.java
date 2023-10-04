@@ -1,4 +1,4 @@
-package d05_FileIOLab;
+package d5_1_FileIOLab;
 
 import java.io.File;
 import java.io.FileInputStream;
